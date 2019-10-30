@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: podinfo
+  name: poddy
   namespace: demo
   labels:
     app: podinfo
