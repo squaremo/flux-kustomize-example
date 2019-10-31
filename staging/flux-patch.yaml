@@ -6,6 +6,8 @@ metadata:
     flux.weave.works/automated: "true"
     flux.weave.works/tag.init: regexp:^3.*
     flux.weave.works/tag.podinfod: semver:~1.4
+    fluxcd.io/locked: "true"
+    fluxcd.io/locked_user: Michael Bridgen <michael@weave.works>
   name: poddy
   namespace: demo
 spec:
