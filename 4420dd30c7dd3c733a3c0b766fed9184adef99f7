@@ -1,0 +1,1 @@
+{"jobID":"617904ad-60b7-be8f-f782-19d343845e75","spec":{"type":"policy","cause":{"Message":"","User":"Michael Bridgen \u003cmichael@weave.works\u003e"},"spec":{"demo:deployment/poddy":{"add":{"locked":"true","locked_msg":"","locked_user":"Michael Bridgen \u003cmichael@weave.works\u003e"},"remove":{}}}},"result":null}
